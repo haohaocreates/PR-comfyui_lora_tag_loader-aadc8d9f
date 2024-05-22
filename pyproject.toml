@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_lora_tag_loader"
+description = "A ComfyUI custom node to read LoRA tag(s) from text and load it into checkpoint model."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/badjeff/comfyui_lora_tag_loader"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_lora_tag_loader"
+Icon = ""
